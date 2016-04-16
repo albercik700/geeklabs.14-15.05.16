@@ -1,0 +1,1 @@
+Zaimplementuj klasę PeselValidate, która w konstruktorze przyjmuje jeden parametr: str1. Klasa powinna mieć publiczną metodę validate, która zwróci true/false w zależności od poprawności przekazanego parametru. Informacje o numerze PESEL tutaj. Swoje rozwiązanie wrzuć na swoje konto github i podaj nam do niego link
